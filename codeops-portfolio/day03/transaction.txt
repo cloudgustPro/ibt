@@ -1,0 +1,4 @@
+"kaleb": "1000 etb",
+"hiwot": "4000 etb",
+"zelalem": "400etb"
+
